@@ -1,0 +1,15 @@
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.exe
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.deps.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.runtimeconfig.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.AssemblyInfo.cs
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.sourcelink.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\refint\TicketPriceCalculatorApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.genruntimeconfig.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TicketPriceCalculatorApp\obj\Debug\net9.0\ref\TicketPriceCalculatorApp.dll

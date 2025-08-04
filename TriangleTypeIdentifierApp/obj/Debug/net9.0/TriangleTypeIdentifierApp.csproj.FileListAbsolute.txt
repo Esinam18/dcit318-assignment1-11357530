@@ -1,0 +1,15 @@
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\bin\Debug\net9.0\TriangleTypeIdentifierApp.exe
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\bin\Debug\net9.0\TriangleTypeIdentifierApp.deps.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\bin\Debug\net9.0\TriangleTypeIdentifierApp.runtimeconfig.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\bin\Debug\net9.0\TriangleTypeIdentifierApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\bin\Debug\net9.0\TriangleTypeIdentifierApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.AssemblyInfoInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.AssemblyInfo.cs
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.sourcelink.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\refint\TriangleTypeIdentifierApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\TriangleTypeIdentifierApp.genruntimeconfig.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\dcit318-assignment1-11357530\TriangleTypeIdentifierApp\obj\Debug\net9.0\ref\TriangleTypeIdentifierApp.dll
